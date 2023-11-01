@@ -3,5 +3,7 @@ D
 C
 B
 A
-my name is DDD
-
+my name is D
+my name is C
+My name is B
+my name is A
