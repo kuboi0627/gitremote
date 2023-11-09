@@ -29,6 +29,4 @@ flowchart TB
     b3-->e2
     b3-->e3
     end
-    
-    
     ```
